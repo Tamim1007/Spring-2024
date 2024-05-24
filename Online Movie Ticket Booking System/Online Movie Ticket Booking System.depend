@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716519647 source:d:\programming\software\online movie ticket booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
